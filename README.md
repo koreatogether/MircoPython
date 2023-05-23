@@ -1,2 +1,5 @@
-# MircoPython
-마이크로 파이선의 기록들입니다.
+## MicroPython
+
+### 저장소 구성
+ - example            - 개별 동작 위조 코드 모음
+ - Project_Logger     - 로거 시스템 중심 프로젝트
